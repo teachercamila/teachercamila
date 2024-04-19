@@ -1,9 +1,7 @@
 # Hello World!
 
 👩‍🏫 Professora na área de desenvolvimento no Instituto Federal de Rondônia - Campus Porto Velho Calama
-
 Entusiasta da linguagem Python e na jornada para se tornar Mestre Pokemon.
-
 Atualmente interessada em robótica educacional. 🤖
 
 PT-BR 🆗
